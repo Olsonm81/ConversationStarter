@@ -1,4 +1,12 @@
-body {
+footer {
+    background: #f2f4f8;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    justify-content: center;
+    align-items: center;
+}
+
+#body-page {
     margin: 0;
     font-family: Arial, sans-serif;
     display: flex;
